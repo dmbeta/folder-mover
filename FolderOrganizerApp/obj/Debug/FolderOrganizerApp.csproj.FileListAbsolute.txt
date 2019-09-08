@@ -1,0 +1,10 @@
+C:\Users\Ursom\source\repos\folder organizer\FolderOrganizerApp\FolderOrganizerApp\bin\Debug\FolderOrganizerApp.exe.config
+C:\Users\Ursom\source\repos\folder organizer\FolderOrganizerApp\FolderOrganizerApp\bin\Debug\FolderOrganizerApp.exe
+C:\Users\Ursom\source\repos\folder organizer\FolderOrganizerApp\FolderOrganizerApp\bin\Debug\FolderOrganizerApp.pdb
+C:\Users\Ursom\source\repos\folder organizer\FolderOrganizerApp\FolderOrganizerApp\obj\Debug\FolderOrganizerApp.csprojResolveAssemblyReference.cache
+C:\Users\Ursom\source\repos\folder organizer\FolderOrganizerApp\FolderOrganizerApp\obj\Debug\FolderOrganizerApp.Form1.resources
+C:\Users\Ursom\source\repos\folder organizer\FolderOrganizerApp\FolderOrganizerApp\obj\Debug\FolderOrganizerApp.Properties.Resources.resources
+C:\Users\Ursom\source\repos\folder organizer\FolderOrganizerApp\FolderOrganizerApp\obj\Debug\FolderOrganizerApp.csproj.GenerateResource.Cache
+C:\Users\Ursom\source\repos\folder organizer\FolderOrganizerApp\FolderOrganizerApp\obj\Debug\FolderOrganizerApp.csproj.CoreCompileInputs.cache
+C:\Users\Ursom\source\repos\folder organizer\FolderOrganizerApp\FolderOrganizerApp\obj\Debug\FolderOrganizerApp.exe
+C:\Users\Ursom\source\repos\folder organizer\FolderOrganizerApp\FolderOrganizerApp\obj\Debug\FolderOrganizerApp.pdb
